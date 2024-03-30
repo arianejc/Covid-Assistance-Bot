@@ -12,7 +12,7 @@ The Covid-Assistance-Bot is a project aimed at providing assistance and resource
 The bot continuously monitors Twitter for tweets containing keywords related to Covid-19 assistance, such as "covid help", "need oxygen", "vaccine assistance", etc.
 Using Twitter APIs or web scraping techniques, relevant tweets are extracted for further processing.
 
-**3. Data Processing in AWS**
+**2. Data Processing in AWS**
 
 The extracted tweets are processed in the AWS environment using various services:
 
